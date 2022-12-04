@@ -27,5 +27,8 @@
   },
   "scripts": {
     "test": "node ./__tests__/@keith/tag.test.js"
+  },
+  "dependencies": {
+    "undefined": "/Users/zl/Documents/h-component"
   }
 }
