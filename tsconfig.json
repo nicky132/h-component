@@ -11,8 +11,8 @@
     "declaration": true,
     // 把组件目录添加到该处
     "paths": {
-      "@keith/button":["./packages/button/src/index.tsx"],
-      "@keith/tag":["./packages/tag/src/index.tsx"]
+      "@cico/button":["./packages/button/src/index.tsx"],
+      "@cico/tag":["./packages/tag/src/index.tsx"]
     }
   }
 }

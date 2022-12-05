@@ -1,11 +1,11 @@
-# `@keith/tag`
+# `@cico/tag`
 
 > TODO: description
 
 ## Usage
 
 ```
-const tag = require('@keith/tag');
+const tag = require('@cico/tag');
 
 // TODO: DEMONSTRATE API
 ```
